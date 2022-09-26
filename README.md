@@ -10,7 +10,7 @@
     Edit your SysML v2 model with the Visual Studio Code SysML v2 extension.
     </p>
     <p>
-    This extension adds full textual support for SysML v2 files into Visual Studio Code, including features such as syntax highlighting, outlines, error detection, reference navigation. It supports the release 2022-08 release of the <a href="https://github.com/Systems-Modeling/SysML-v2-Release">SysML v2 specification</a>.
+    This extension adds full textual support for SysML v2 files into Visual Studio Code, including features such as syntax highlighting, error detection, reference navigation. It supports the release 2022-08 release of the <a href="https://github.com/Systems-Modeling/SysML-v2-Release">SysML v2 specification</a>.
     </p>
     <p>
     This extension is provided free of charge by <a href="https://www.ellidiss.com">Ellidiss Technologies</a>.
@@ -49,7 +49,7 @@ This extension is in active development and follows the monthly release of the [
   - [ ] syntax highlighting.
   - [ ] parsing and error detection.
   - [ ] reference resolution and navigation.
-- [ ] Full list of symbol presentation and file outline. 
+- [ ] Full list of symbol presentation and files outline. 
 - [ ] Support for documentation presentation in a hover popup.
 - [ ] Reference resolution error presentation.
 - [ ] Rename symbol action.
