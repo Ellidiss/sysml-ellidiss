@@ -27,7 +27,6 @@
 ## Content
 
 - [Features](#Features)
-  - [Commands](#Commands)
 - [Release Notes](#Release-Notes)
   - [0.1.0](#010)
 
