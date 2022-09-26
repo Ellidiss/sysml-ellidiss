@@ -26,7 +26,7 @@
 
 ## Content
 
-- [Features](#Features)
+- [Features](#Features) 
 - [Release Notes](#Release-Notes)
   - [0.1.0](#010)
 
@@ -44,7 +44,11 @@ The resolved references by the parser are navigable in Visual Studio Code. Both 
 
 This extension is in active development and follows the monthly release of the [SysML v2 specification](https://github.com/Systems-Modeling/SysML-v2-Release). Many features are under development:
 
-- [ ] Support for KerML syntax.
+- [x] Support for SysML textual syntax.
+  - [x] syntax highlighting.
+  - [x] parsing and error detection.
+  - [x] reference resolution and navigation.
+- [ ] Support for KerML textual syntax.
   - [ ] syntax highlighting.
   - [ ] parsing and error detection.
   - [ ] reference resolution and navigation.
