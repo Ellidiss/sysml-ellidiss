@@ -5,6 +5,7 @@
 <td>
     <p>
       <b>This extension is in active development and follows the monthly release of the <a href="https://github.com/Systems-Modeling/SysML-v2-Release">SysML v2 specification</a>.</b>
+    The extension logo is the SysML v2 logo from the <a href="https://github.com/Systems-Modeling">SysML v2 Submission Team (SST)</a>.
     </p>
     <p>
     Edit your SysML v2 model with the Visual Studio Code SysML v2 extension.
@@ -26,7 +27,7 @@
 
 ## Content
 
-- [Features](#Features) 
+- [Features](#Features)
 - [Release Notes](#Release-Notes)
   - [0.1.0](#010)
 
@@ -52,7 +53,7 @@ This extension is in active development and follows the monthly release of the [
   - [ ] syntax highlighting.
   - [ ] parsing and error detection.
   - [ ] reference resolution and navigation.
-- [ ] Full list of symbol presentation and files outline. 
+- [ ] Full list of symbol presentation and files outline.
 - [ ] Support for documentation presentation in a hover popup.
 - [ ] Reference resolution error presentation.
 - [ ] Rename symbol action.
