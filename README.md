@@ -60,6 +60,6 @@ This extension is in active development and follows the monthly release of the [
 
 ## Release Notes
 
-### [0.1.0]
+### [0.1.3]
 
 Initial release of `sysml-ellidiss`
