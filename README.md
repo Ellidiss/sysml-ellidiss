@@ -5,7 +5,6 @@
 <td>
     <p>
       <b>This extension is in active development and follows the monthly release of the <a href="https://github.com/Systems-Modeling/SysML-v2-Release">SysML v2 specification</a>.</b>
-    The extension logo is the SysML v2 logo from the <a href="https://github.com/Systems-Modeling">SysML v2 Submission Team (SST)</a>.
     </p>
     <p>
     Edit your SysML v2 model with the Visual Studio Code SysML v2 extension.
